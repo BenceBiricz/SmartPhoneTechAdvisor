@@ -1,7 +1,8 @@
 # SmartPhoneTechAdvisor
 
 ## Main Page
-![Screenshot 2023-09-20 123505](https://github.com/BenceBiricz/SmartPhoneTechAdvisor/assets/71565433/3a12afed-c6eb-4814-869e-3fa5e90b4c57)
+![main](https://github.com/BenceBiricz/SmartPhoneTechAdvisor/assets/71565433/66834194-5100-402e-9fc2-a982e59769dd)
 
 ## Comparision page created by OPENAI
-![Screenshot 2023-09-20 123602](https://github.com/BenceBiricz/SmartPhoneTechAdvisor/assets/71565433/8fc5df9b-936f-4032-afae-2558c777c0e2)
+![compare](https://github.com/BenceBiricz/SmartPhoneTechAdvisor/assets/71565433/b2385c7a-b0eb-4719-b7f9-fab785a214d2)
+
